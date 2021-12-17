@@ -1,0 +1,6 @@
+/home/pachinko/Documents/github/C2/cpp-httplib/build/CMakeFiles/install/strip.dir
+/home/pachinko/Documents/github/C2/cpp-httplib/build/CMakeFiles/install.dir
+/home/pachinko/Documents/github/C2/cpp-httplib/build/CMakeFiles/list_install_components.dir
+/home/pachinko/Documents/github/C2/cpp-httplib/build/CMakeFiles/rebuild_cache.dir
+/home/pachinko/Documents/github/C2/cpp-httplib/build/CMakeFiles/edit_cache.dir
+/home/pachinko/Documents/github/C2/cpp-httplib/build/CMakeFiles/install/local.dir

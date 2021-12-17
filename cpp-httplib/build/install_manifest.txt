@@ -1,0 +1,5 @@
+/usr/local/include/httplib.h
+/usr/local/lib/cmake/httplib/httplibConfig.cmake
+/usr/local/lib/cmake/httplib/httplibConfigVersion.cmake
+/usr/local/lib/cmake/httplib/FindBrotli.cmake
+/usr/local/lib/cmake/httplib/httplibTargets.cmake
