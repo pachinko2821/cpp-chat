@@ -8,3 +8,8 @@ I am sure this is full of badcode, but hey it WORKS!
 * Need to build with cmake, I am building it directly at the moment using `c++`
 * Need to figure out port forwarding, for now ngrok does the job
 * Need to implement base64 for encoding and decoding the messages, it don't like em special characters
+
+# Credits?
+
+* cpp-httplib from here https://github.com/yhirose/cpp-httplib
+* cpp-base64 from here https://github.com/ReneNyffenegger/cpp-base64
